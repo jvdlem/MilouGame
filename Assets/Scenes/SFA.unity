@@ -218,7 +218,7 @@ GameObject:
   - component: {fileID: 54800136}
   m_Layer: 8
   m_Name: groundTemp (4)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -325,7 +325,7 @@ GameObject:
   - component: {fileID: 68414326}
   m_Layer: 8
   m_Name: groundTemp (13)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -918,7 +918,7 @@ GameObject:
   - component: {fileID: 306221523}
   m_Layer: 8
   m_Name: groundTemp
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1381,7 +1381,7 @@ GameObject:
   - component: {fileID: 385459320}
   m_Layer: 8
   m_Name: groundTemp (14)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1769,7 +1769,7 @@ GameObject:
   - component: {fileID: 440888228}
   m_Layer: 8
   m_Name: groundTemp (10)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1956,7 +1956,7 @@ GameObject:
   - component: {fileID: 492572488}
   m_Layer: 8
   m_Name: groundTemp (17)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2126,7 +2126,7 @@ Camera:
   m_FOVAxisMode: 0
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 50
+  m_FocalLength: 32.96973
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -2808,7 +2808,7 @@ MonoBehaviour:
   player: {fileID: 643886920}
   playerRB: {fileID: 643886928}
   speed: 6
-  jumpStrength: 20
+  jumpStrength: 15
   onGround: 1
   canMove: 1
   playerAnimator: {fileID: 643886921}
@@ -2907,7 +2907,7 @@ GameObject:
   - component: {fileID: 660093340}
   m_Layer: 8
   m_Name: groundTemp (19)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3395,7 +3395,7 @@ GameObject:
   - component: {fileID: 765716703}
   m_Layer: 8
   m_Name: groundTemp (6)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3502,7 +3502,7 @@ GameObject:
   - component: {fileID: 807519707}
   m_Layer: 8
   m_Name: groundTemp (1)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3609,7 +3609,7 @@ GameObject:
   - component: {fileID: 829166823}
   m_Layer: 8
   m_Name: groundTemp (2)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4141,7 +4141,7 @@ MonoBehaviour:
   m_StreamingVersion: 20170927
   m_Priority: 10
   m_StandbyUpdate: 2
-  m_LookAt: {fileID: 0}
+  m_LookAt: {fileID: 643886923}
   m_Follow: {fileID: 643886923}
   m_Lens:
     FieldOfView: 40
@@ -4266,7 +4266,7 @@ GameObject:
   - component: {fileID: 1038416559}
   m_Layer: 8
   m_Name: groundTemp (16)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4969,7 +4969,7 @@ GameObject:
   - component: {fileID: 1165720379}
   m_Layer: 8
   m_Name: groundTemp (9)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5112,7 +5112,7 @@ GameObject:
   - component: {fileID: 1253700874}
   m_Layer: 8
   m_Name: groundTemp (20)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5701,7 +5701,7 @@ GameObject:
   - component: {fileID: 1407456505}
   m_Layer: 8
   m_Name: groundTemp (5)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5808,7 +5808,7 @@ GameObject:
   - component: {fileID: 1451786174}
   m_Layer: 8
   m_Name: groundTemp (15)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5915,7 +5915,7 @@ GameObject:
   - component: {fileID: 1466462744}
   m_Layer: 8
   m_Name: groundTemp (7)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6719,7 +6719,7 @@ GameObject:
   - component: {fileID: 1627306034}
   m_Layer: 8
   m_Name: groundTemp (11)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6906,7 +6906,7 @@ GameObject:
   - component: {fileID: 1702482857}
   m_Layer: 8
   m_Name: groundTemp (8)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7011,6 +7011,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: spike 1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8876437963156195129, guid: b6a1bc56ae083854cb02075b53e6edb2,
+        type: 3}
+      propertyPath: m_TagString
+      value: trap
       objectReference: {fileID: 0}
     - target: {fileID: 8876437963156195128, guid: b6a1bc56ae083854cb02075b53e6edb2,
         type: 3}
@@ -7235,7 +7240,7 @@ GameObject:
   - component: {fileID: 1809469697}
   m_Layer: 8
   m_Name: groundTemp (12)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7421,6 +7426,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: spike 1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8876437963156195129, guid: b6a1bc56ae083854cb02075b53e6edb2,
+        type: 3}
+      propertyPath: m_TagString
+      value: trap
+      objectReference: {fileID: 0}
     - target: {fileID: 8876437963156195128, guid: b6a1bc56ae083854cb02075b53e6edb2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7600,7 +7610,7 @@ GameObject:
   - component: {fileID: 1988905151}
   m_Layer: 8
   m_Name: groundTemp (3)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7705,6 +7715,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: spike 1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8876437963156195129, guid: b6a1bc56ae083854cb02075b53e6edb2,
+        type: 3}
+      propertyPath: m_TagString
+      value: trap
       objectReference: {fileID: 0}
     - target: {fileID: 8876437963156195128, guid: b6a1bc56ae083854cb02075b53e6edb2,
         type: 3}
@@ -8073,6 +8088,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: spike 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8876437963156195129, guid: b6a1bc56ae083854cb02075b53e6edb2,
+        type: 3}
+      propertyPath: m_TagString
+      value: trap
       objectReference: {fileID: 0}
     - target: {fileID: 8876437963156195128, guid: b6a1bc56ae083854cb02075b53e6edb2,
         type: 3}
