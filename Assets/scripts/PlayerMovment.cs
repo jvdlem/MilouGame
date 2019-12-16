@@ -70,14 +70,15 @@ public class PlayerMovment : MonoBehaviour
             {
                 onGround = true;
                 playerAnimator.SetBool("Jump", false);
+                playerAnimator.SetTrigger("OnGround");
             }
                 
         }
         if (collision.gameObject.tag == "trap"&& canMove==true)
         {
             canMove = false;
-            playerAnimator.SetBool("Jump", false);
-            playerAnimator.SetBool("Die", true);
+            //playerAnimator.SetBool("Jump", false);
+            playerAnimator.SetTrigger("DieTrigger");
             StartCoroutine(Die());
             
         }
@@ -93,7 +94,6 @@ public class PlayerMovment : MonoBehaviour
     {
 
         yield return new WaitForSeconds(dieAnimation.length);
-        playerAnimator.SetBool("Die", false);
         DestroyGameobject();
     }
 
