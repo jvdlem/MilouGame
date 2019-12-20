@@ -143,7 +143,7 @@ GameObject:
   - component: {fileID: 7044725021050336631}
   m_Layer: 0
   m_Name: projectille
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
